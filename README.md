@@ -2,7 +2,7 @@
 
 Este é uma solução para o desafio [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Visão Geral
+## Welcome
 
 ### Screenshot
 
@@ -11,8 +11,8 @@ Este é uma solução para o desafio [QR code component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [https://github.com/Leandro-Frota/qr-code-component-main.git]
-- Live Site URL: [https://leandro-frota.github.io/qr-code-component-main/]
+- Solution URL: [https://github.com/codingcss/qrcode]
+- Live Site URL: [https://codingcss.github.io/qrcode/]
 
 ### Tecnologias
 - HTML5
